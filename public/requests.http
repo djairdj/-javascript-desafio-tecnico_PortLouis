@@ -1,0 +1,9 @@
+### Get notes
+GET http://localhost:8080/notes
+
+### Get orders
+GET http://localhost:8080/orders
+
+### Get processed
+GET http://localhost:8080/process
+
